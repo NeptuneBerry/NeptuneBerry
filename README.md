@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NeptuneBerry
+- quero desenvolver meus conhecimentos, aprender mais e deixar alguns projetos registrados
+- Atualmente sei programar em Python, HTML e aprendendo C++
+- Sou leitora, gosto da Marvel, músicas, outono e sitcoms 
